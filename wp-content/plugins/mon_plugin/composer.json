@@ -1,0 +1,15 @@
+{
+    "name": "hb/mon_plugin",
+    "autoload": {
+        "psr-4": {
+            "MonPlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joris bertier",
+            "email": "joris.bertier@gmail.com"
+        }
+    ],
+    "require": {}
+}

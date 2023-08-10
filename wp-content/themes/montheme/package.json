@@ -1,0 +1,15 @@
+{
+  "name": "montheme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass --watch assets/style/scss/main.scss:assets/style/css/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.64.2"
+  }
+}
