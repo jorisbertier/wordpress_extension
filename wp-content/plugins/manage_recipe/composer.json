@@ -1,0 +1,15 @@
+{
+    "name": "hb/manage_recipe",
+    "autoload": {
+        "psr-4": {
+            "Hb\\ManageRecipe\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joris bertier",
+            "email": "joris.bertier@gmail.com"
+        }
+    ],
+    "require": {}
+}

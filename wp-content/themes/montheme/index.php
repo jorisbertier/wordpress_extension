@@ -26,7 +26,7 @@
                 <time datetime="<?php the_date(); ?>"> à <?= the_time()?></time>
                 <!-- <?= the_shortlink( 'lire la suite') ?> -->
                 <a href="<?php the_permalink();?>">view</a>
-                <h2><?= do_shortcode(['shortcode']) ?></h2>
+                <h2><?= do_shortcode('[shortcode]') ?></h2>
 
             </article>
 

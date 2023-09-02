@@ -1,0 +1,15 @@
+{
+    "name": "hb/change_pathfile",
+    "autoload": {
+        "psr-4": {
+            "ChangePathfile\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joris bertier",
+            "email": "joris.bertier@gmail.com"
+        }
+    ],
+    "require": {}
+}

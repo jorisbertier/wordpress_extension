@@ -1,0 +1,15 @@
+{
+    "name": "hb/recipe",
+    "autoload": {
+        "psr-4": {
+            "Hb\\Recipe\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joris bertier",
+            "email": "joris.bertier@gmail.com"
+        }
+    ],
+    "require": {}
+}
